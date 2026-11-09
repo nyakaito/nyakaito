@@ -18,7 +18,7 @@ jobs:
           retries_output_action: 5
           retries_delay_output_action: 30
 
-          user: scaryzombies
+          user: nyakaito
           template: classic
           base: header, activity
           config_order: base.header, base.activity, music, wakatime, traffic
